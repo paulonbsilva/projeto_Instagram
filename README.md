@@ -7,4 +7,4 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 
 ## 🚀 Let's code! 🚀
 
-Este foi um Projeto de interface de login do Instagram, Curso: ## "HTML Web Developer (DIO) 2021"
+Este foi um Projeto de interface de login do Instagram, Curso: "HTML Web Developer (DIO) 2021"
